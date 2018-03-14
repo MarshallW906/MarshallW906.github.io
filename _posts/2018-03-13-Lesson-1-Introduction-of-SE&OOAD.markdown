@@ -6,7 +6,7 @@ tags: [Software Engineering, Terminology]
 ---
 # Introduction of SE & OOAD
 
-Thanks to [Wikipedia](https://en.wikipedia.org).
+Thanks to [Wikipedia](https://en.wikipedia.org) & 《人月神话》.
 
 Note:
 
