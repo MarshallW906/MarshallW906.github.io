@@ -1,0 +1,17 @@
+nginx 403 forbidden有2种原因，
+
+1:缺少索引文件，2:权限问题
+
+ 缺少索引文件，检查nginx对目标页面的设置，index后面的参数
+
+一般是index  index.php index.html; 的形式
+
+如果对应页面目录下面没有找到index.php index.html（按顺序找完所有参数），就会报403，即索引文件缺失。此时检查文件是否存在即可。（从备份里恢复吧...）
+
+权限问题：
+
+即放wordpress的目录的所属用户并非nginx的启动用户。显然有两种方法解决，一是放大对该目录的权限，二是将wp的目录拥有者转移给nginx的启动用户。
+
+即 $ chmod -R 775 /path/to/wordpress
+
+或 $ chown -R nginx_user /path/to/wordpress
