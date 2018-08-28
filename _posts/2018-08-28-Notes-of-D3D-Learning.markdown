@@ -1,3 +1,10 @@
+---
+layout: post
+title: Notes of Direct 3D 11 Learning
+date: 2018-08-28 17:00:00 +0800
+tags: [Notes]
+---
+
 # Notes of Direct 3D 11 Learning
 
 ## Keys To Initialize a empty D3D 11 project (without DXUT)

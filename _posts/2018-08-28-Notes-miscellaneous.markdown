@@ -1,3 +1,10 @@
+---
+layout: post
+title: Notes (Miscellaneous)
+date: 2018-08-28 17:00:00 +0800
+tags: [Notes]
+---
+
 # Notes (Miscellaneous)
 
 ## Useful Tools
