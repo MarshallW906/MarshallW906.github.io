@@ -13,6 +13,6 @@ tags: [Application]
 
 ## 'Lightning: South Project' Game:
 
-- This game is available on: 
+- This game is available on: https://marshallw906.github.io/South_Project_Lightning_WAB/index.html
 - Gameplay video: https://youtu.be/jy-Fuco1HXE
 - Design statement: https://github.com/MarshallW906/South_Project_Lightning_WAB/blob/gh-pages/design-statement.pdf
