@@ -9,13 +9,12 @@ url: "https://marshallw906.github.io" # the base hostname & protocol for your si
 
 # Author Settings
 author: Marshall Wang # add your name
-author-img: R-Y.png # add your photo
-about-author: Stay determined... # add description
-social-twitter: MarshallW906 # add your Twitter handle
-social-facebook: marshallwang906 # add your Facebook handle
+# author-img: R-Y.png # add your photo
+author-img: MarshallWang.png # add your photo
+about-author: Stay determined # add description
 social-github: MarshallW906 # add your Github handle
 social-linkedin: marshall-wang-256 # add your Linkedin handle
-social-email: scareley@gmail.com # add your Email address
+social-email: marshallw906@gmail.com # add your Email address
 
 # Disqus
 # discus-identifier: marshallw906 # add your discus identifier
