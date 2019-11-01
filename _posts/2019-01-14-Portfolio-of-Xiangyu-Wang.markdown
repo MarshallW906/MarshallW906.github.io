@@ -5,11 +5,12 @@ date: 2019-01-14 12:00:00 +0800
 tags: [Application]
 ---
 
-## A 3D sci-fi racing game by Unity3D
+## A 3D sci-fi racing game by Unity3D: "No more Benzin"
 
 - Collaborate with another 4 people during USC MEGA Game Jam in Oct 26-27.
 - I did UI, general game control, and finalization of this game.
 - Game Repo: https://github.com/benhaderle/RacingJamGame
+- Gameplay Video: https://youtu.be/1le_Cl_cutM
 
 ## A simple 2D adventure game demo by Babylon.js(TypeScript)
 
