@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Portfolio for Application of Xiangyu Wang
-date: 2019-12-5 19:00:00 -0800
+date: 2019-12-13 03:00:00 -0800
 tags: [Application]
 ---
 
 ## Game Engine Stuff
-These are things I implemented in Game Engine Dev class.
+These are things I implemented in Game Engine Dev class (CSCI 522) by myself.
 
 ### CPU/GPU Collision check (Performance comparison)
 - GPU Code was implemented by OpenGL compute shader
@@ -37,6 +37,7 @@ These are things I implemented in Game Engine Dev class.
 
 ## Rendering stuff
 ### A PBR demo with Specular IBL & HDR Tone Mapping
+- CSCI 580 (3D Graphics & Rendering) Final Project (collaborated with another two)
 - https://youtu.be/HpdTTB1vymI
 
 ## Game Demo
@@ -65,7 +66,7 @@ These are things I implemented in Game Engine Dev class.
 - Design Statement: https://github.com/MarshallW906/ConsGame_Task1/blob/gh-pages/README.md
 
 ## Miscellaneous
-## Anonymous Forum (Collaborate with classmates)
+### Anonymous Forum (Collaborate with classmates)
 
 - I designed an anonymous forum's backend with other 3 classmates during my undergraduate studies.
 - Here is the group: https://github.com/Chun-Ge
