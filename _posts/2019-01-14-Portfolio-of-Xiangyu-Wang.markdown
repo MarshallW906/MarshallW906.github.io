@@ -13,19 +13,18 @@ These are things I implemented in Game Engine Dev class.
 - Many static imrods with obvious overlaps were spawned for collision detection
 - Video: https://youtu.be/bcQw3MEv5ts 
 
-### An animation system with full/partial/additive animation
-- Also a basic 3rd-person controller was implemented
-- Videos: 
-  - AABB & Camera view frustum Culling test: https://youtu.be/afH72g8HpFE
-  - Additive animation: https://youtu.be/sf3T9ywaCkg
-  - Partial animation: https://youtu.be/H27tRPsZw9s
-
 ### An basic 3D Audio system implemented by XAudio2
 - 3D spatial effect
 - Videos: 
   - Walk sound attached to a soldier, & ambient sound: https://youtu.be/Zggp_4pUJq4
   - 3D Sound Music: https://youtu.be/NQvsFHRlgW8
 
+### An animation system with full/partial/additive animation
+- Also a basic 3rd-person controller was implemented
+- Videos: 
+  - AABB & Camera view frustum Culling test: https://youtu.be/afH72g8HpFE
+  - Additive animation: https://youtu.be/sf3T9ywaCkg
+  - Partial animation: https://youtu.be/H27tRPsZw9s
 
 ### AABB Bounding volumes & Culling
 - A basic culling test using camera view frustum & AABB.
