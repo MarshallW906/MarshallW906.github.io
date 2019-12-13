@@ -8,8 +8,13 @@ tags: [Application]
 ## Game Engine Stuff
 These are things I implemented in Game Engine Dev class.
 
+### CPU/GPU Collision check (Performance comparison)
+- GPU Code was implemented by OpenGL compute shader
+- Many static imrods with obvious overlaps were spawned for collision detection
+- Video: https://youtu.be/bcQw3MEv5ts 
+
 ### An animation system with full/partial/additive animation
-- Also a 3rd-person controller is implemented
+- Also a basic 3rd-person controller was implemented
 - Videos: 
   - AABB & Camera view frustum Culling test: https://youtu.be/afH72g8HpFE
   - Additive animation: https://youtu.be/sf3T9ywaCkg
