@@ -1,7 +1,7 @@
 title: Marshall's Github Page
 description: > # this means to ignore newlines until "baseurl:"
   Coding gorgeously
-permalink: ':title/'
+permalink: ":title/"
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "https://marshallw906.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ url: "https://marshallw906.github.io" # the base hostname & protocol for your si
 author: Marshall Wang # add your name
 # author-img: R-Y.png # add your photo
 author-img: MarshallWang.png # add your photo
-about-author: Stay determined # add description
+about-author: Gameplay Engineer # add description
 social-github: MarshallW906 # add your Github handle
 social-linkedin: marshall-wang-256 # add your Linkedin handle
 social-email: marshallw906@gmail.com # add your Email address
@@ -36,4 +36,3 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
 timezone: "Asia/Shanghai"
 encoding: utf-8
-
