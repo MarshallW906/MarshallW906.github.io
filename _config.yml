@@ -1,6 +1,6 @@
 title: Marshall's Github Page
 description: > # this means to ignore newlines until "baseurl:"
-  Coding gorgeously
+  Animation / Engine / Gameplay
 permalink: ":title/"
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
@@ -10,8 +10,8 @@ url: "https://marshallw906.github.io" # the base hostname & protocol for your si
 # Author Settings
 author: Marshall Wang # add your name
 # author-img: R-Y.png # add your photo
-author-img: MarshallWang.png # add your photo
-about-author: Gameplay Engineer # add description
+author-img: MarshallWang-2022.png # add your photo
+about-author: Animation Programmer # add description
 social-github: MarshallW906 # add your Github handle
 social-linkedin: marshall-wang-256 # add your Linkedin handle
 social-email: marshallw906@gmail.com # add your Email address
