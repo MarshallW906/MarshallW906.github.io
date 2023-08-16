@@ -10,11 +10,12 @@ tags: [Portfolio]
 ### Motion Matching: Locomotion
 - speed switch, stand_turnAngle_startWalking, move_PlantTurn_move, move_to_stop_(with/without turning after the character stands still)
 - Postprocessing: FootIK
-- Video: (contact me for the link)
+- Video: [(contact me for the link)]
 
-### Motion Matching: Partial body matching
-- Do hands up while moving (mask to right hand) / standing (mask to upper body)
-- Video: (contact me for the link)
+### Motion Matching: Walk and Stop at Specific Location
+- Work in Progress
+- Snapping to the target location by interpolation between source and target trajectories
+- Video: [Google Drive](https://drive.google.com/file/d/1us_2IxfPBTAmTX5V8aLL2y0QSVVjuaGL/view?usp=sharing)
 
 ### Inverse Kinematics (IK): 
 - Video Link: [Google drive](https://drive.google.com/file/d/1It2_k7DA8UtzAzpFaDRzye9Er9p10SdZ/view?usp=sharing)
